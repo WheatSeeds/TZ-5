@@ -1,5 +1,5 @@
 export type ITodo = {
-    id: number;
-    description: string;
-    isCompleted: boolean;
-}
+  id: number;
+  description: string;
+  isCompleted: boolean;
+};
